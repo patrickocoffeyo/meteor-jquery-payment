@@ -1,0 +1,8 @@
+{
+  "name": "meteor-jquery-payment",
+  "description": "A general purpose library for building credit card forms, validating inputs and formatting numbers.",
+  "homepage": "https://github.com/patrickocoffeyo/meteor-jquery-payment",
+  "author": "Patrick Coffey  (http://scriptsquirrel.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/patrickocoffeyo/meteor-jquery-payment.git"
+}
