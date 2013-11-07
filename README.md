@@ -1,4 +1,4 @@
 meteor-jquery-payment
 =====================
 
-A general purpose library for building credit card forms, validating inputs and formatting numbers.
+Meteor package for Stripe's jQuery.payment library. For documentation, see the [jQuery.payment repository](https://github.com/stripe/jquery.payment).
